@@ -16,8 +16,8 @@
 /* HTML Styles */
 
 html {
-   background-image: url(cf_back1.png) center center / cover;
-   {
+   background-image: url(cf_back1.png) center center /cover no-repeat;
+   }
 
 
 /* Body Styles */
