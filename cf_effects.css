@@ -52,6 +52,7 @@ section {
 
 section#left aside {
    transform: rotateY(25deg);
+   }
    
 section#right aside {
    transform: rotateY(-25deg);
